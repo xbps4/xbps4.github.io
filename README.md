@@ -1,1 +1,1 @@
-# xbps4.gitub.io
+https://xbps4.gitub.io
