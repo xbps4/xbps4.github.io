@@ -48,7 +48,7 @@ $(document).ready(function(){
 	function timeout() {
 	    setTimeout(function () {
 	    	if(time===0){
-				$("#textInfo").text("PS4 BlueBox v2.0");
+				$("#textInfo").text("PS4 BlueBox v2.1");
 				$("#textInfo").addClass("animated slideInDown");
 				time++;
 			}else
@@ -58,7 +58,7 @@ $(document).ready(function(){
 				time++;
 			}else
 				if(time===2){
-				$("#textInfo").text("t.me/psfourhax");
+				$("#textInfo").text("t.me/psforlearn");
 				$("#textInfo").addClass("animated slideInDown");
 				time=0;
 			}
