@@ -1,5 +1,5 @@
 CACHE MANIFEST 
-# Self Host v2.0 
+# Self Host v2.1
 # Tue 10/22/2019-19:14:53.12 
 
 index.html
@@ -29,6 +29,7 @@ images\henscreenshot.png
 images\rif.png
 images\info.png
 images\linux.png
+images\linux2.png
 images\hen15.png
 images\remoteplay.png
 images\hen18.png
@@ -93,4 +94,6 @@ payloads\vtxhen17.html
 payloads\vtxhen18.html
 payloads\vtxhenc0d3mod.html
 payloads\webrte2.bin
+payloads\baikal.html
+payloads\PS4-Linux-Loader_normal.bin
 payloads\xmbcache.html
