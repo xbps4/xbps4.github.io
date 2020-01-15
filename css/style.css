@@ -321,6 +321,10 @@ mark {padding-left: 10px; padding-right: 10px; color:white; background-color: rg
 	background-image: url("../images/linux.png");
 }
 
+.Linux2{
+	background-image: url("../images/linux2.png");
+}
+
 .ftprw{
 	background-image: url("../images/ftprw.png");
 }
