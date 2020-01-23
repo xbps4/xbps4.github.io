@@ -1,5 +1,5 @@
 CACHE MANIFEST 
-# Self Host v2.1
+# Self Host v2.2
 # Tue 10/22/2019-19:14:53.12 
 
 index.html
@@ -37,6 +37,13 @@ images\hen211.png
 images\hen17l.png
 images\unblocker.png
 images\hen18vr.png
+images\db_backup.png
+images\db_restore.png
+images\save_backup.png
+images\save_mounter.png
+images\save_restore.png
+images\trp_backup.png
+images\trp_restore.png
 js\jquery.min.js
 js\jsv.js
 js\persianc.js
@@ -86,7 +93,6 @@ payloads\Style_02.css
 payloads\Style_03.css
 payloads\unblock.html
 payloads\vr.html
-payloads\EnableVR.bin
 payloads\vtxdump.html
 payloads\vtxftp.html
 payloads\vtxhen2.html
@@ -96,5 +102,19 @@ payloads\vtxhen18.html
 payloads\vtxhenc0d3mod.html
 payloads\webrte2.bin
 payloads\baikal.html
+payloads\db_backup.html
+payloads\db_restore.html
+payloads\save_backup.html
+payloads\save_mounter.html
+payloads\save_restore.html
+payloads\trp_backup.html
+payloads\trp_restore.html
+payloads\Database_Backup.bin
+payloads\Database_Restore.bin
+payloads\Save_Data_Backup.bin
+payloads\Save_Data_Restore.bin
+payloads\SaveMounter.bin
+payloads\Trophy_Backup.bin
+payloads\Trophy_Restore.bin
 payloads\PS4-Linux-Loader_normal.bin
 payloads\xmbcache.html
