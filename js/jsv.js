@@ -48,7 +48,7 @@ $(document).ready(function(){
 	function timeout() {
 	    setTimeout(function () {
 	    	if(time===0){
-				$("#textInfo").text("PS4 BlueBox v2.1");
+				$("#textInfo").text("PS4 BlueBox v2.2");
 				$("#textInfo").addClass("animated slideInDown");
 				time++;
 			}else
