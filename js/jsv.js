@@ -1,10 +1,3 @@
-/*PS4 Interface Version 1.0.0
-  thanks to
-  https://codepen.io/Kapilnemo/pen/bwYoPZ
-  and
-  https://codepen.io/rstacruz/pen/oxJqNv
-*/
-
 $(document).ready(function(){
 		$(".gameText").hide();
 		$(".gameText2").hide();
@@ -48,7 +41,7 @@ $(document).ready(function(){
 	function timeout() {
 	    setTimeout(function () {
 	    	if(time===0){
-				$("#textInfo").text("PS4 BlueBox v2.2");
+				$("#textInfo").text("PS4 BlueBox v2.3");
 				$("#textInfo").addClass("animated slideInDown");
 				time++;
 			}else
